@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weekaway-website/static/css/main.abbfc565.css",
+    "main.js": "/weekaway-website/static/js/main.84026169.js",
+    "index.html": "/weekaway-website/index.html",
+    "main.abbfc565.css.map": "/weekaway-website/static/css/main.abbfc565.css.map",
+    "main.84026169.js.map": "/weekaway-website/static/js/main.84026169.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abbfc565.css",
+    "static/js/main.84026169.js"
+  ]
+}
